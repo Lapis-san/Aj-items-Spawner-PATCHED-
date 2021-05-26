@@ -1,5 +1,5 @@
-# Aj-items-ids
-Animal jam items id for cheat engine or other program use Hex
+# Aj-items-Spawner
+Animal jam item Spawner with cheat engine
 
 Tutorial
 
